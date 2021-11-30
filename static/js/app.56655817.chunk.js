@@ -1,2 +1,0 @@
-(this["webpackJsonp@dhis2/app-shell"]=this["webpackJsonp@dhis2/app-shell"]||[]).push([[135],{394:function(n,t,e){n.exports={container:"App_container__2zgzu"}},395:function(n,t,e){"use strict";e.r(t),e.d(t,"default",(function(){return r}));var a=e(0),p=e.n(a),s=e(394),i=e.n(s);function r(){return p.a.createElement("div",{className:i.a.container},"Data entry app")}}}]);
-//# sourceMappingURL=app.56655817.chunk.js.map
