@@ -1,7 +1,7 @@
 {
   "type": "app",
+  "title": "Data Entry",
   "name": "data-entry",
   "version": "1.0.0",
-  "description": "",
-  "title": "data-entry"
+  "description": ""
 }
