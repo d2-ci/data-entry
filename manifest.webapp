@@ -1,7 +1,7 @@
 {
   "appType": "APP",
   "short_name": "data-entry",
-  "name": "Data Entry",
+  "name": "Data Entry (Beta)",
   "description": "",
   "version": "1.0.0",
   "launch_path": "index.html",
@@ -14,7 +14,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Tue Sep 13 2022 16:17:24 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Tue Sep 20 2022 12:15:12 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
